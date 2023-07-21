@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanyuscore/static/css/main.d3f2e98e.css",
+    "main.js": "/hanyuscore/static/js/main.32a40c60.js",
+    "static/js/787.3dce892e.chunk.js": "/hanyuscore/static/js/787.3dce892e.chunk.js",
+    "index.html": "/hanyuscore/index.html",
+    "main.d3f2e98e.css.map": "/hanyuscore/static/css/main.d3f2e98e.css.map",
+    "main.32a40c60.js.map": "/hanyuscore/static/js/main.32a40c60.js.map",
+    "787.3dce892e.chunk.js.map": "/hanyuscore/static/js/787.3dce892e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f2e98e.css",
+    "static/js/main.32a40c60.js"
+  ]
+}
